@@ -1,0 +1,88 @@
+/* CSS Document */
+body {
+	background: #fff none repeat scroll 0 0;
+	margin: 0px;
+	padding: 10px;
+}
+/************About Us***************
+***********************************/
+.content {
+	width: 100%;
+	display: block;
+}
+.content {
+	color: #666;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+.version {
+	display: block;
+	text-align: center;
+}
+.content h1 {
+	font-size: 16px;
+	color: #4e720e;
+	font-weight: normal;
+}
+.content strong {
+	font-size: 14px;
+	font-style: italic;
+}
+.content p {
+	font-size: 12px;
+	margin: 5px 0px 15px;
+	word-wrap: break-word;
+}
+.content h3 {
+	font-size: 15px;
+	font-weight:bold;
+
+}
+p, li{
+	color: #666;
+	font-size: 12px;
+	margin: 0;
+	padding: 2px 0 5px;
+	text-align: left;
+}
+/************FAQ***************
+***********************************/
+.custom-listing ul {
+	list-style: outside none disc;
+	padding-left: 1.5em;
+}
+.custom-listing ul, .custom-listing ol, .custom-listing dl, .custom-listing p, .custom-listing address, .custom-listing blockquote {
+	margin: 0 0 1em;
+	padding: 0;
+}
+li {
+	line-height: 1.5em;
+	margin-left: 1.5em;
+}
+/******************Contact Us*********************
+*************************************************/
+.contact h3 {
+	font-size: 15px;
+	font-weight: bold;
+}
+/******************Cancel Return*****************
+************************************************/
+.content .content_table {
+	font-size: 12px;
+}
+.content th, .content td {
+	margin: 0;
+	padding: 0;
+}
+a:link {
+	color: #666
+}
+a:hover {
+	color: #666
+}
+a:visited {
+	color: #666
+}
+
+p{ line-height:19px; margin-top:3px!important;}

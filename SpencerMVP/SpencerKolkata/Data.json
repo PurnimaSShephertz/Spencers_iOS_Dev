@@ -1,0 +1,665 @@
+{
+    "status": 1,
+    "data": {
+        "categories": [
+                       
+                       {
+                       "category_id": "3",
+                       "name": "Fruit & Vegetables",
+                       "parent_id": 2,
+                       "child_id": "11,12",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_3.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "11",
+                                          "name": "Vegetables",
+                                          "parent_id": 3,
+                                          "child_id": "13,14,15,16,17,18,19,20,21",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_11.jpg"
+                                          },
+                                          {
+                                          "category_id": "12",
+                                          "name": "Fruit",
+                                          "parent_id": 3,
+                                          "child_id": "22,23,24,25,26,27,28",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_12.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "4",
+                       "name": "Grocery & Staples",
+                       "parent_id": 2,
+                       "child_id": "29,40,44,54,58,64,69,72",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_4.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "29",
+                                          "name": "Dal and Pulses ",
+                                          "parent_id": 4,
+                                          "child_id": "30,31,32,33,34,35,36,37,38,39",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_29.jpg"
+                                          },
+                                          {
+                                          "category_id": "40",
+                                          "name": "Cereals\/Rice",
+                                          "parent_id": 4,
+                                          "child_id": "41,42,43",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_40.jpg"
+                                          },
+                                          {
+                                          "category_id": "44",
+                                          "name": "Edible Oils and Ghee ",
+                                          "parent_id": 4,
+                                          "child_id": "45,46,47,48,49,50,52,53",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_44.jpg"
+                                          },
+                                          {
+                                          "category_id": "54",
+                                          "name": "Masala and Spices ",
+                                          "parent_id": 4,
+                                          "child_id": "55,56,57",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_54.jpg"
+                                          },
+                                          {
+                                          "category_id": "58",
+                                          "name": "Organic Staples",
+                                          "parent_id": 4,
+                                          "child_id": "296,59,60,61,62,63",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_58.jpg"
+                                          },
+                                          {
+                                          "category_id": "64",
+                                          "name": "Flours ",
+                                          "parent_id": 4,
+                                          "child_id": "65,66,67,68",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_64.jpg"
+                                          },
+                                          {
+                                          "category_id": "69",
+                                          "name": "Dry Fruits ",
+                                          "parent_id": 4,
+                                          "child_id": "70,71",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_69.jpg"
+                                          },
+                                          {
+                                          "category_id": "72",
+                                          "name": "Salt, Sugar and Jaggery ",
+                                          "parent_id": 4,
+                                          "child_id": "73,74,75",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_72.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "5",
+                       "name": "Non-Veg",
+                       "parent_id": 2,
+                       "child_id": "76,80,84,87",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_5.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "76",
+                                          "name": "Fish\/Seafood",
+                                          "parent_id": 5,
+                                          "child_id": "77,78,79",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_76.jpg"
+                                          },
+                                          {
+                                          "category_id": "80",
+                                          "name": "Chicken",
+                                          "parent_id": 5,
+                                          "child_id": "81,82,83",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_80.jpg"
+                                          },
+                                          {
+                                          "category_id": "84",
+                                          "name": "Mutton",
+                                          "parent_id": 5,
+                                          "child_id": "85,86",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_84.jpg"
+                                          },
+                                          {
+                                          "category_id": "87",
+                                          "name": "Pork and Other Meats",
+                                          "parent_id": 5,
+                                          "child_id": "88",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_87.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "6",
+                       "name": "Beverages",
+                       "parent_id": 2,
+                       "child_id": "102,105,89,95,97",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_6.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "102",
+                                          "name": "Soft Drinks",
+                                          "parent_id": 6,
+                                          "child_id": "103,104",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_102.jpg"
+                                          },
+                                          {
+                                          "category_id": "105",
+                                          "name": "Energy and Health Drinks",
+                                          "parent_id": 6,
+                                          "child_id": "106,107",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_105.jpg"
+                                          },
+                                          {
+                                          "category_id": "89",
+                                          "name": "Fruit Drinks and Juices",
+                                          "parent_id": 6,
+                                          "child_id": "90,91,92,93,94",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_89.jpg"
+                                          },
+                                          {
+                                          "category_id": "95",
+                                          "name": "Mineral Water",
+                                          "parent_id": 6,
+                                          "child_id": "96",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_95.jpg"
+                                          },
+                                          {
+                                          "category_id": "97",
+                                          "name": "Tea and Coffee",
+                                          "parent_id": 6,
+                                          "child_id": "100,101,98,99",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_97.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "7",
+                       "name": "Branded Foods",
+                       "parent_id": 2,
+                       "child_id": "108,109,110,112,113,114,115,116,117,118,119,120,121",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_7.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "108",
+                                          "name": "Biscuits",
+                                          "parent_id": 7,
+                                          "child_id": "124,125,126,127,128,129",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_108.jpg"
+                                          },
+                                          {
+                                          "category_id": "109",
+                                          "name": "Sauces and Ketchup",
+                                          "parent_id": 7,
+                                          "child_id": "130,131,132,133,134",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_109.jpg"
+                                          },
+                                          {
+                                          "category_id": "110",
+                                          "name": "Breakfast Cereals",
+                                          "parent_id": 7,
+                                          "child_id": "135,136,137",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_110.jpg"
+                                          },
+                                          {
+                                          "category_id": "112",
+                                          "name": "Baking and Dessert Items",
+                                          "parent_id": 7,
+                                          "child_id": "145,147,148",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_112.jpg"
+                                          },
+                                          {
+                                          "category_id": "113",
+                                          "name": "Canned Food",
+                                          "parent_id": 7,
+                                          "child_id": "138,146",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_113.jpg"
+                                          },
+                                          {
+                                          "category_id": "114",
+                                          "name": "Veg Snacks",
+                                          "parent_id": 7,
+                                          "child_id": "139,140,141,142,143,144",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_114.jpg"
+                                          },
+                                          {
+                                          "category_id": "115",
+                                          "name": "Noodles",
+                                          "parent_id": 7,
+                                          "child_id": "149,150,151",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_115.jpg"
+                                          },
+                                          {
+                                          "category_id": "116",
+                                          "name": "Ready to Cook",
+                                          "parent_id": 7,
+                                          "child_id": "152,153,154,155,156,157,158",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_116.jpg"
+                                          },
+                                          {
+                                          "category_id": "117",
+                                          "name": "Chocolates and Sweets",
+                                          "parent_id": 7,
+                                          "child_id": "159,160,161,162",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_117.jpg"
+                                          },
+                                          {
+                                          "category_id": "118",
+                                          "name": "Pasta and Vermicelli",
+                                          "parent_id": 7,
+                                          "child_id": "163,164,165",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_118.jpg"
+                                          },
+                                          {
+                                          "category_id": "119",
+                                          "name": "Jams and Spreads",
+                                          "parent_id": 7,
+                                          "child_id": "166,167,168,170,171",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_119.jpg"
+                                          },
+                                          {
+                                          "category_id": "120",
+                                          "name": "Pickles",
+                                          "parent_id": 7,
+                                          "child_id": "172,173,294",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_120.jpg"
+                                          },
+                                          {
+                                          "category_id": "121",
+                                          "name": "Baby Food",
+                                          "parent_id": 7,
+                                          "child_id": "175,176",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_121.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "8",
+                       "name": "Bread Dairy & Eggs",
+                       "parent_id": 2,
+                       "child_id": "122,123,297",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_8.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "122",
+                                          "name": "Dairy Products",
+                                          "parent_id": 8,
+                                          "child_id": "178,179,180,181,182,183,293,302",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_122.jpg"
+                                          },
+                                          {
+                                          "category_id": "123",
+                                          "name": "Bread and Bakery",
+                                          "parent_id": 8,
+                                          "child_id": "184,185,186,187,303",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_123.jpg"
+                                          },
+                                          {
+                                          "category_id": "297",
+                                          "name": "Eggs",
+                                          "parent_id": 8,
+                                          "child_id": "301",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_297.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "9",
+                       "name": "Personal Care",
+                       "parent_id": 2,
+                       "child_id": "188,189,190,191,192,193,194,195,196,197,198",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_9.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "188",
+                                          "name": "Skin Care ",
+                                          "parent_id": 9,
+                                          "child_id": "211,212,213,214",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_188.jpg"
+                                          },
+                                          {
+                                          "category_id": "189",
+                                          "name": "Baby Care",
+                                          "parent_id": 9,
+                                          "child_id": "215,216,300",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_189.jpg"
+                                          },
+                                          {
+                                          "category_id": "190",
+                                          "name": "Sanitary Needs",
+                                          "parent_id": 9,
+                                          "child_id": "217,218",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_190.jpg"
+                                          },
+                                          {
+                                          "category_id": "191",
+                                          "name": "Hair Care ",
+                                          "parent_id": 9,
+                                          "child_id": "219,220,221,222,223",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_191.jpg"
+                                          },
+                                          {
+                                          "category_id": "192",
+                                          "name": "Cosmetics ",
+                                          "parent_id": 9,
+                                          "child_id": "224,225,226",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_192.jpg"
+                                          },
+                                          {
+                                          "category_id": "193",
+                                          "name": "Deos and Perfumes ",
+                                          "parent_id": 9,
+                                          "child_id": "227,228",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_193.jpg"
+                                          },
+                                          {
+                                          "category_id": "194",
+                                          "name": "Otc ",
+                                          "parent_id": 9,
+                                          "child_id": "229,230,231,232,233",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_194.jpg"
+                                          },
+                                          {
+                                          "category_id": "195",
+                                          "name": "Shaving Needs ",
+                                          "parent_id": 9,
+                                          "child_id": "234,235,236",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_195.jpg"
+                                          },
+                                          {
+                                          "category_id": "196",
+                                          "name": "Ayurvedic ",
+                                          "parent_id": 9,
+                                          "child_id": "237",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_196.jpg"
+                                          },
+                                          {
+                                          "category_id": "197",
+                                          "name": "Personal Hygiene",
+                                          "parent_id": 9,
+                                          "child_id": "238,239,240,241,242",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_197.jpg"
+                                          },
+                                          {
+                                          "category_id": "198",
+                                          "name": "Oral Care",
+                                          "parent_id": 9,
+                                          "child_id": "243,244,245",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_198.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "10",
+                       "name": "Household",
+                       "parent_id": 2,
+                       "child_id": "199,200,201,203,204,205,207,208,209,210,255,304,305,306",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_10.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "199",
+                                          "name": "Cleaning & Bathroom Needs",
+                                          "parent_id": 10,
+                                          "child_id": "246,247,248,249,307",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_199.jpg"
+                                          },
+                                          {
+                                          "category_id": "200",
+                                          "name": "Repellents and Fresheners",
+                                          "parent_id": 10,
+                                          "child_id": "250,251",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_200.jpg"
+                                          },
+                                          {
+                                          "category_id": "201",
+                                          "name": "Shoe Care",
+                                          "parent_id": 10,
+                                          "child_id": "253,254",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_201.jpg"
+                                          },
+                                          {
+                                          "category_id": "203",
+                                          "name": "Electricals ",
+                                          "parent_id": 10,
+                                          "child_id": "266,298",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_203.jpg"
+                                          },
+                                          {
+                                          "category_id": "204",
+                                          "name": "Pooja Needs",
+                                          "parent_id": 10,
+                                          "child_id": "267,268,308,309",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_204.jpg"
+                                          },
+                                          {
+                                          "category_id": "205",
+                                          "name": "Laundry",
+                                          "parent_id": 10,
+                                          "child_id": "269,270",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_205.jpg"
+                                          },
+                                          {
+                                          "category_id": "207",
+                                          "name": "Car Care ",
+                                          "parent_id": 10,
+                                          "child_id": "275,310",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_207.jpg"
+                                          },
+                                          {
+                                          "category_id": "208",
+                                          "name": "Utensil Cleaners",
+                                          "parent_id": 10,
+                                          "child_id": "277,278",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_208.jpg"
+                                          },
+                                          {
+                                          "category_id": "209",
+                                          "name": "Pet Care ",
+                                          "parent_id": 10,
+                                          "child_id": "279,280",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_209.jpg"
+                                          },
+                                          {
+                                          "category_id": "210",
+                                          "name": "Kitchen and Dining",
+                                          "parent_id": 10,
+                                          "child_id": "281,282,283,284,285,311,312",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_210.jpg"
+                                          },
+                                          {
+                                          "category_id": "255",
+                                          "name": "Paper and Disposable",
+                                          "parent_id": 10,
+                                          "child_id": "256,257,258,259,260,261",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_255.jpg"
+                                          },
+                                          {
+                                          "category_id": "304",
+                                          "name": "Home Furnishing",
+                                          "parent_id": 10,
+                                          "child_id": "313,314,315,316",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_304.jpg"
+                                          },
+                                          {
+                                          "category_id": "305",
+                                          "name": "Travel & Travel Accessories",
+                                          "parent_id": 10,
+                                          "child_id": "317,318,319",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_305.jpg"
+                                          },
+                                          {
+                                          "category_id": "306",
+                                          "name": "Stationery & Games",
+                                          "parent_id": 10,
+                                          "child_id": "320,321,322,323,324",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_306.jpg"
+                                          }
+                                          ]
+                       },
+                       {
+                       "category_id": "287",
+                       "name": "Imported and Gourmet",
+                       "parent_id": 2,
+                       "child_id": "288",
+                       "active": 1,
+                       "level": "2",
+                       "thumb_img": "cat_287.jpg",
+                       "Sub_Categories": [
+                                          {
+                                          "category_id": "288",
+                                          "name": "Food",
+                                          "parent_id": 287,
+                                          "child_id": "289,290",
+                                          "active": 1,
+                                          "level": "3",
+                                          "thumb_img": "cat_288.jpg"
+                                          }
+                                          ]
+                       }
+                       ]
+    },
+    "offer": {
+        "category_id": "295",
+        "name": "Offers",
+        "parent_id": 2,
+        "child_id": "",
+        "active": 1,
+        "level": "2",
+        "thumb_img": "http:\/\/spencers.in\/media\/catalog\/category\/mobile\/banner_cat_296.jpg"
+    }
+}
